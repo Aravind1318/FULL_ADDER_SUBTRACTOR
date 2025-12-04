@@ -38,7 +38,8 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 <img width="447" height="490" alt="image" src="https://github.com/user-attachments/assets/0fed648c-309d-4dd5-b7f6-fe57dbef900e" />
-<img width="585" height="329" alt="image" src="https://github.com/user-attachments/assets/434a69f3-c61b-4f41-9967-648017af2b18" />
+<img width="300" height="212" alt="image" src="https://github.com/user-attachments/assets/1438af59-df88-401c-8348-ef2f802dab16" />
+
 
 
 
